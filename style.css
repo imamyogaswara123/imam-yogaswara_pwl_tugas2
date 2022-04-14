@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #90caf9 ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;;
+}
+.tekscolor{
+    color: white;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-30%, -50%);
+    background: rgba(4, 29, 23, 0.5);
+    padding: 50px;
+    width: 350px;
+    box-shadow: 0px 0px 25px 10px black;
+    border-radius: 15px;;
+}
+.tabelmhs{
+    position: absolute;
+    top: 15cm;
+    left: 28%;
+    padding: 30px;
+    box-shadow: 0px 0px 25px 10px black;
+    background: rgba(4, 29, 23, 0.5);
+}
